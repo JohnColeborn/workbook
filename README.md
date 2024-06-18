@@ -1,5 +1,6 @@
 Q1 Identify and explain common and important components and concepts of web development markup languages.
 
+<details>
 
 # Some common and important concepts in detail:
 
@@ -20,9 +21,11 @@ To summarise and emphasise this point a little, an example is Markdown using tag
 Again using common written and spoken languages such as English and Chinese it can quickly been shown that not only are the characters of their alphabets completely different, but also their word building, sentence structures and many other aspects are completely unique to that language. Each of these languages has a dictionary unique to themselves that summarises all the appropriate laws such as correct and incorrect spelling. 
 
 This concept applies directly to markup languages, through the use of their dictionaries, which are known as Schemas
+</details>
 
-----
-----
+---
+---
+
 
 Q2 	Define the features of the following technologies that are essential in terms of the development of the internet:
  - packets
@@ -31,6 +34,7 @@ Q2 	Define the features of the following technologies that are essential in term
  - domains and DNS
 
 Explain how each technology has contributed to the development of the internet.
+<details>
 
 # Packets
 
@@ -101,16 +105,19 @@ A huge benefit of the DNS is that it enables us to use and remember particular w
 To liken it to our local town or city. If each address was the same we would not be able to send a letter to anyone else. But also if we want to send a letter to someone on the other side of the city we are able to look up a registry of people or business's and send the mail to the appropriate address.
 
 If there were no unique IP addresses identifying each domain it would be impossible to transfer data appropriately. If there was no DNS, then trying to remember 197.232.2.13 equivalents for every site we wanted to access would be complicated at a minimum. Much easier to be able to look up 'Google' or 'Coolsite.com'
+</details>
 
-----
-----
+---
+---
 
-Q3: Define the features of the following technologies that are essential in terms of the development of the internet:
+Q3 Define the features of the following technologies that are essential in terms of the development of the internet:
  - TCP
  - HTTP and HTTPS
  - web browsers (requests, rendering and developer tools)
 
 Explain how each technology has contributed to the development of client and server communication over the internet (50 - 150 words for each technology)
+<details>
+
 # TCP
 ## What is TCP?
 Transmission Control Protocol is a large part of the governance used to enable data transferal between devices. It does this by:
@@ -139,10 +146,14 @@ Web browsers are UI apps designed to allow users to browse, find, view, and inte
 - Allowing the use of developer tools such as 'Inspect' and the developer console attached.
 ## How have web browsers contributed to the development of client and server communication over the internet?
 By enabling an extremely simple layout, meaningful translations, a means to traverse the web, and many other features web browsers empower users to view, navigate, and interact with the internet. Such a highly demanded tool has been massively beneficial in promoting the use of the internet, and has simplified the use from clients when accessing different servers. What once was a complex path of going from user input to correct destination and accessing desired data can now be as simple as a couple of clicks.
+</details>
 
-----
-----
+---
+---
+
 Q4 Describe the features of interpreters and compilers and how they are different.
+<details>
+
 # Interpreters and Compilers
 ## What are Interpreters
 An interpreter is a program that directly executes coded instructions or scripted language in a single line. An example of this would be using WSL to set up a Git repo
@@ -153,10 +164,14 @@ A compiler is a program that takes an entire code block and alters it into machi
 - Interpreter is an almost instant response, Compiler has a delay during compilation and has to be re-compiled each time it is altered. 
 - Interpreted code translates to machine code as it goes, compiler converts it all to machine code and then runs which optimises run time and execution
 - Debugging interpreted code is generally a lot simpler than debugging compiled code due to compiled code being machine code and lacking human-readable code while interpreted code remains as written.
+</details>
 
-----
-----
+---
+---
+
 Q5 Identify TWO commonly used programming languages and explain the benefits and drawbacks of each.
+<details>
+
 # Cobol
 A common business-oriented language, Cobol was designed to be highly readable and self documenting and achieves that using a prose style approach, quite similar to how we would write pseudocode. It was and is an excellent language for handling large bulk data particularly in number handling. And was designed with that intent as a business oriented programming language to be primarily used in mainframes. 
 
@@ -171,10 +186,13 @@ Some drawbacks to C# are the greater learning curve that simpler languages such 
 
 <a id="1">[2]</a>
 Skeet, Jon (2019). C# in Depth (Fourth ed.). Manning. ISBN 978-1617294532
+</details>
 
-----
-----
+---
+---
+
 Q6 A hypothetical client has sent you an email (shown in the Q6 Email section), asking for you to build them a website. Write an appropriate, professional email response that shows your understanding of the client’s needs for the website, as well as an understanding of appropriate technologies or tools needed to build the website yourself.
+<details>
 
 ## Email from client
 Click for details
@@ -203,21 +221,90 @@ Super Awesome Museum
   
 
 ## My Response email
-    Hello Alex,
+Hello Alex,
     
-    Great to hear from you and wonderful to hear about your Super Awesome Museum.
+Great to hear from you and wonderful to hear about your Super Awesome Museum, I would love to come and check it out myself!
 
-    While my knowledge on artefacts, objects, and paraphernalia about all sorts of things from around the world may be limited, when it comes to websites and all of your internet needs I have aquired an excellent repetoir of knowledge and skills.
+While my knowledge on your speciality is limited, when it comes to websites and all of your internet needs I have acquired an excellent repertoire of knowledge and skills to meet your needs such as:
+- In regard to not selling any items but wanting to encourage visitors, you would not need any E-Commerce, but would most likely need a highly optimised image gallery.
 
-    From your email I would like to draw out a few focal points for discussion:
-    - The museum requires a website
-    - The museum is new in the city
-    - You do not sell any items, but would like to encourage visitors
-    
-    To further clarify on these points:
+- Being new to the city we would include SEO (Search Engine Optimisation), which would allow for greater exposure.
 
-    The museum requires a website for multiple reasons that you have listed, such as showcasing some of the wonderful exhibits and items, helping people find how to reach you, and helping people contact you either through the website directly or through phone and address details.
+- People would be able to contact you via a dedicated contact page which would include options such as a form to contact through the website, phone details, physical address, and any links to social media platforms you would like attached. It would be likely that we would embed Google Maps for people to find where you are situated and how to get there.
 
-    SAM is also new in the city which I would assume indicates that word of mouth advertisment and exposure amongst the populace is low to nil at this point. Am I correct in saying that through the website you hope to create an online presence that assists in exposing people to the awesome features you are offering and encourages them to come in and check it out?
+- We always ensure that our sites are responsive and accessible to all ages and demographics across multiple devices which makes online access easier to the broad variety of people interested in your museum.
 
-    
+- UX (User Experience) is a large part of our priorities when building a website, we like to ensure a clean, responsive, and overall pleasing experience.
+
+- We would use the appropriate CMS(Content Management System) such as WordPress and assist you and your team in learning how to use and update it.
+
+- We also offer hosting solutions and a maintenance retainer if you are interested in that.
+
+Rest assured that we go as far as needed to make sure that everything makes sense for you, and are happy to answer any and all questions that may arise.
+
+The basic way we would achieve this is by having a meeting at a time of convenience to discuss details in depth. 
+
+If you are interested in arranging a time when we can also provide more info such as pricing, strategies, and overall plans we would love to hear from you.
+
+Regards
+
+John
+___
+Managing Director
+CoolGuy Websites
+
+[coolwebsiteguy@websites.com](mailto:coolwebsiteguy@websites.com?subject=Test)
+
+[Call Us](tel:1223334444)
+
+[LinkedIn](linkedincoolguy)
+[Facebook](facebookcoolguy)
+[Twitter](coolguytwitter)
+</details>
+
+---
+---
+
+Q7 Think back to a scenario or situation in your own software development projects or work.
+
+Explain how you would do things differently if you had a chance to go through that scenario again, using an appropriate reflective cycle or reflection technique.
+<details>
+
+# My scenario
+I spent a few months building a 2d RPG to learn C# and Unity, and absolutely loved the entire experience. I did however spend the vast majority of my time making it look pretty as opposed to coding. Which kind of defeated my main purpose for attempting it.
+
+A few things that I learnt from doing this, and or have learnt since, include:
+- I had no prior planning or overall plan
+- I had zero exposure, so everything was shiny and distracting
+- I can't do everything all at once and definitely won't be a master at anything I have spent a day learning
+
+To spell out the opportunities for growth and improvement from these lessons, I both had and continue to have the following epiphanies:
+
+- Planning in advance is your friend. From many years in cooking this is something I know very well, but when it came to more scholastic pursuits it all went out the window. I have learnt and continue to learn more about how to plan appropriately, how to include both overall and in depth planning. It has been reassuring to see this approach taught in my current course. Which still doesn't stop me from skipping it at times haha. Using tools such as Figma, DrawIO, Trello, Pseudocode to create a layout and palpable steps, clearly defined goals and checkpoints is something that I am hoping to become far more fluent and natural in.
+
+- Having had limited to nil exposure to either coding or Unity prior to my attempt I was getting constantly distracted by all the new information, new content, new everything! What retrospect and a bit of time taught me through this is to fully utilise and more appropriately absorb new content it is best to keep it to small blocks at a time, focus on the block at hand and repeat it as many times as possible. I was constantly trying to jump ahead or try something different and was not retaining much. So my plan regarding this is to put my actions where my mouth is. Break my learning content into chunks I can focus on. Practice it till I can do it with my eyes close (figuratively). Absorb appropriately.
+
+- In a similar vein, recognizing that I can't do everything at once. By having more meaningful smaller chunks of learning with high repetition, I can not only improve retention, but also alleviate stress and distraction caused by information overload.
+I won't be a master in a day, but if I practice every day, I will become a master.
+</details>
+
+---
+---
+
+Q8  	
+
+A large part of career growth as an information technology professional happens through networking and workshops, often found at online or in-person events or workshops. 
+
+Create an action plan that identifies several relevant networking opportunities for you to participate in or attend, and add some information about what you expect to gain or grow through each item in the action plan.
+<details>
+
+# Action Plan!
+To be a man of action!
+
+Currently living in a rather remote area of Australia, there is extremely limited access to networking, events, or workshops in-person. Which means that almost 100% of my potential networking has to occur online in some form. 
+
+Having been an avid gamer for many years I have quite a few friends in the gaming industry who have worked in various areas of the game design field. While this is somewhat alien to web dev, the foundations of coding are the same across languages and their exposure to both in-house dynamics and IT related experience is a huge source of knowledge and networking opportunities. 
+</details>
+
+---
+---

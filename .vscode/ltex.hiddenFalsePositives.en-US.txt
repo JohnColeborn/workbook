@@ -1,1 +1,2 @@
 {"rule":"EN_A_VS_AN","sentence":"^\\QFor example a HTTP request contains data such as\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QThis may include design choices such as colour schemes and font choices, general layout, image choices such as galleries and stand alones and a few other things.\\E$"}
