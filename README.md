@@ -202,7 +202,7 @@ The client’s email is as follows:
 
 Hello there!
 
-My name is Alex, and I’m the director of the Super Awesome Museum (SAM). We display a variety of interesting artefacts, objects, and paraphernalia about all sorts of things from all over the world.
+My name is Alex, and I’m the director of the Super Awesome Museum (SAM). We display a variety of interesting artifacts, objects, and paraphernalia about all sorts of things from all over the world.
 
 I’m writing to you because the SAM needs a website. The museum is new in the city, we’re fully funded and don’t sell our items but we just need to encourage people to visit the museum.
 
@@ -225,7 +225,7 @@ Hello Alex,
     
 Great to hear from you and wonderful to hear about your Super Awesome Museum, I would love to come and check it out myself!
 
-While my knowledge on your speciality is limited, when it comes to websites and all of your internet needs I have acquired an excellent repertoire of knowledge and skills to meet your needs such as:
+While my knowledge on your specialty is limited, when it comes to websites and all of your internet needs I have acquired an excellent repertoire of knowledge and skills to meet your needs such as:
 - In regard to not selling any items but wanting to encourage visitors, you would not need any E-Commerce, but would most likely need a highly optimised image gallery.
 
 - Being new to the city we would include SEO (Search Engine Optimisation), which would allow for greater exposure.
@@ -304,6 +304,42 @@ To be a man of action!
 Currently living in a rather remote area of Australia, there is extremely limited access to networking, events, or workshops in-person. Which means that almost 100% of my potential networking has to occur online in some form. 
 
 Having been an avid gamer for many years I have quite a few friends in the gaming industry who have worked in various areas of the game design field. While this is somewhat alien to web dev, the foundations of coding are the same across languages and their exposure to both in-house dynamics and IT related experience is a huge source of knowledge and networking opportunities. 
+
+My hope is to reach out and network on a higher level with those in the interest of not only gaining insight, but also potentially employment, learning opportunities, and possibly even friends of friends to get to network with. 
+
+Another thing that I would like to implement is tracking down online opportunities, such as the ones posted in the course discord on occasion. From which I would like to grow my knowledge on as many general fields as possible to increase my base understanding, and also to potentially gain networking opportunities.
+
+I am also doing my best to read documentation around the content I am currently learning, which is complimented by the lessons, and my peers in course. My hope is to fully use the opportunities that arise from this to not only grow my personal network, but also to grow my knowledge.
+</details>
+
+---
+---
+
+Q9 Explain the uses of language-learning model technologies (such as ChatGPT) on written and technical works, such as reports and software projects.
+<details>
+</details>
+
+---
+---
+
+Q10 Explain the legal and ethical impacts of the usage of language-learning model technologies (such as ChatGPT) in written and technical works, such as reports and software projects.
+<details>
+</details>
+
+---
+---
+
+Q11 Explain multiple skills from each of the categories below, and how they’re useful to a software development workplace.
+  -  Soft skills
+  -  Hard skills
+<details>
+</details>
+
+---
+---
+
+Q12 Explain multiple roles or job positions that would be found in a medium-sized software development company.
+<details>
 </details>
 
 ---
