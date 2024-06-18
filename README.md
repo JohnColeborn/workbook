@@ -172,3 +172,52 @@ Some drawbacks to C# are the greater learning curve that simpler languages such 
 <a id="1">[2]</a>
 Skeet, Jon (2019). C# in Depth (Fourth ed.). Manning. ISBN 978-1617294532
 
+----
+----
+Q6 A hypothetical client has sent you an email (shown in the Q6 Email section), asking for you to build them a website. Write an appropriate, professional email response that shows your understanding of the client’s needs for the website, as well as an understanding of appropriate technologies or tools needed to build the website yourself.
+
+## Email from client
+Click for details
+<Details>
+
+The client’s email is as follows:
+
+Hello there!
+
+My name is Alex, and I’m the director of the Super Awesome Museum (SAM). We display a variety of interesting artefacts, objects, and paraphernalia about all sorts of things from all over the world.
+
+I’m writing to you because the SAM needs a website. The museum is new in the city, we’re fully funded and don’t sell our items but we just need to encourage people to visit the museum.
+
+We would need a website that showcases some of our interesting exhibits and items, helps people find their way to the museum, and helps people contact the museum.
+
+We don’t know much about this website stuff - does this sound like something that you can do? 
+
+Looking forward to hearing from you,
+
+Alex
+
+Director
+
+Super Awesome Museum 
+</Details>
+  
+
+## My Response email
+    Hello Alex,
+    
+    Great to hear from you and wonderful to hear about your Super Awesome Museum.
+
+    While my knowledge on artefacts, objects, and paraphernalia about all sorts of things from around the world may be limited, when it comes to websites and all of your internet needs I have aquired an excellent repetoir of knowledge and skills.
+
+    From your email I would like to draw out a few focal points for discussion:
+    - The museum requires a website
+    - The museum is new in the city
+    - You do not sell any items, but would like to encourage visitors
+    
+    To further clarify on these points:
+
+    The museum requires a website for multiple reasons that you have listed, such as showcasing some of the wonderful exhibits and items, helping people find how to reach you, and helping people contact you either through the website directly or through phone and address details.
+
+    SAM is also new in the city which I would assume indicates that word of mouth advertisment and exposure amongst the populace is low to nil at this point. Am I correct in saying that through the website you hope to create an online presence that assists in exposing people to the awesome features you are offering and encourages them to come in and check it out?
+
+    
