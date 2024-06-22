@@ -315,7 +315,10 @@ I am also doing my best to read documentation around the content I am currently 
 ---
 ---
 
-Q9 Explain the uses of language-learning model technologies (such as ChatGPT) on written and technical works, such as reports and software projects.
+
+
+<a id="9">[Q9]</a>
+ Explain the uses of language-learning model technologies (such as ChatGPT) on written and technical works, such as reports and software projects.
 <details>
 
 # Pros
@@ -370,7 +373,30 @@ But to a degree the point is conveyed, this is a tool entirely devoted to answer
 
 Q10 Explain the legal and ethical impacts of the usage of language-learning model technologies (such as ChatGPT) in written and technical works, such as reports and software projects.
 <details>
-This truly is a fascinating query, and an instantaneous example that springs to mind is a somewhat eccentric study by a music theorist called Adam Neely who interviews(Damien Riehl, Noah Rubin) and explains that as a technicality all music can be (provided it is copied to a physical medium) surmised 11.2.2020 poosjk what
+
+# An exponentiation of explanation
+I would like to preface this segment with a clarification, this is a purely academic study, the following is an attempt to understand and iterate the query and response.
+
+This truly is a fascinating query, and an instantaneous example that springs to mind is a somewhat eccentric study by a music theorist called Adam Neely who interviews Damien Riehl and Noah Rubin, and it explains that as a technicality all music can be claimed as copyrighted provided it is "copied to a physical medium" [[7]](#7)
+
+From this we infer that there is a vast majority of 'Intellectual Property' that is based around dictionaries, libraries, lists, databases. In essence what words are said or how words are constructed into sentences are all "claimed by &copy;" 
+
+Another suggestion outside original obvious (Dictionaries have the words correct?) the Bible mentions a theory that there are no new theories [[8]](#8)
+
+In a particular interpretation of this data, it could be surmised that all data exists in a theoretical format, that all data once written, could not be unwritten, and hence duplication of the 'physical medium' would then be subject to claims of plagiarism or breach of &copy;. 
+
+When a language model such as ChatGPT is then used via prompt to complete a task or answer a question, we refer to question nine [[9]](#9). 
+- Can it answer a question in a meaningful way? (True)
+- Will it always be true and be able to be used as testimony or fact? (False)
+- 
+
+
+<a id="7">[7]</a>
+[Neely, Adam 2020.2.11](https://www.youtube.com/watch?v=sfXn_ecH5Rw)
+
+
+<a id="8">[8]</a>
+[Bible KJV Ecclesiastes 1:9](https://www.bible.com/bible/1/ECC.1.9.KJV)
 </details>
 
 ---
