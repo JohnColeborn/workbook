@@ -184,7 +184,7 @@ A language designed to be highly portable (easily run on different platforms), e
 
 Some drawbacks to C# are the greater learning curve that simpler languages such as Cobol exhibit. The failure to be as economical on resources as some of its peers. Greater runtime due to using CLR(Common Language Runtime), and focused mainly on Microsoft and Windows usage through .NET
 
-<a id="1">[2]</a>
+<a id="2">[2]</a>
 Skeet, Jon (2019). C# in Depth (Fourth ed.). Manning. ISBN 978-1617294532
 </details>
 
@@ -317,6 +317,52 @@ I am also doing my best to read documentation around the content I am currently 
 
 Q9 Explain the uses of language-learning model technologies (such as ChatGPT) on written and technical works, such as reports and software projects.
 <details>
+
+# Pros
+There are many benefits to the usage of language-learning model technologies in the same way that there are many benefits to a calculator, to a dictionary, or to a thesaurus.
+To be able to suggest a topic or to specify instructions, and query it from a knowledge base outside our own is an amazing way to learn.
+EG:
+Calculator: 1+1 = 2
+  - Or does it? [[3]](#3)
+  - Dictionary is true surely? [[4]](#4)
+  - A Thesaurus... as above really, just with a bit more to say about it
+
+So to iterate how these tools can impact written and technical works, (refers to thesaurus), verbosity! It teaches that taking a mellifluous peregrination approximates equitably conspicuous conclusions.
+
+To refer to the dictionary for some of these was a path that had to be taken for myself, which only served to prove its purpose and worth
+
+For calculations, mentally computing 1 + 947 + a + pi / .5 is going to take a long time, and using a calculator will expediate the process.
+
+However, to lead into Cons below, the accuracy is pre-defined by the programming(as in AI) and while 1 + 1 might equal 2, but does it count to the x<sup>99</sup>? An excellent example is a float only having 6-7 decimal digits of precision
+
+# Cons
+But. Buuuut. Not entirely sure how to drag out a phonetic 'u' appropriately, let me ask ChatGPT for the first time for this, so I can verbatim an appropriate response.
+
+ChatGPT is given the prompt "But. Buuuut. Not entirely sure how to drag out a phonetic 'u' appropriately"
+
+Response: "To drag out the phonetic 'u' in writing, you can use repeated 'u' characters. For example, you could write "But. Buuuut." This effectively elongates the sound and conveys the extended pronunciation you're aiming for. The number of 'u' characters can vary depending on how long you want to stretch the sound, so feel free to adjust it to fit your needs." [[5]](#5)
+
+So this particular case study was not excellent in terms of result, apologies for the potential head bopping. There is a very literal response, without a grasp of context or completion.
+
+But to a degree the point is conveyed, this is a tool entirely devoted to answering, and using itself to grow, so it can answer more, but more is != True. EG: Bunnings Snags through an AI filter just doesn't add up as demonstrated recently on some viral Reddit threads [[6]](#6)
+
+
+
+<a id="3">[3]</a>
+[H, John (2019). Terrific Math & Science Tutoring and More!.](https://www.wyzant.com/resources/answers/638898/when-does-1-1-not-equals-2)
+
+
+<a id="4">[4]</a>
+[Oxford University Press ELT](https://learningenglishwithoxford.com/2024/02/29/15-modern-english-words-with-different-meanings-in-the-past/)
+
+
+<a id="5">[5]</a>
+[ChatGPT 2024.06.23](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+
+<a id="6">[6]</a>
+[Reddit Bunnings AI Example 2024.06.19 AbleCalligrapher5323](https://www.reddit.com/r/AusMemes/comments/1dj7y98/facebook_suggested_i_try_their_ai_so_i_told_it_to/)
+</details>
 </details>
 
 ---
@@ -324,6 +370,7 @@ Q9 Explain the uses of language-learning model technologies (such as ChatGPT) on
 
 Q10 Explain the legal and ethical impacts of the usage of language-learning model technologies (such as ChatGPT) in written and technical works, such as reports and software projects.
 <details>
+This truly is a fascinating query, and an instantaneous example that springs to mind is a somewhat eccentric study by a music theorist called Adam Neely who interviews(Damien Riehl, Noah Rubin) and explains that as a technicality all music can be (provided it is copied to a physical medium) surmised 11.2.2020 poosjk what
 </details>
 
 ---
