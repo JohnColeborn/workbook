@@ -1,6 +1,6 @@
 Q1 Identify and explain common and important components and concepts of web development markup languages.
 
-<details>
+
 
 # Some common and important concepts in detail:
 
@@ -21,7 +21,7 @@ To summarise and emphasise this point a little, an example is Markdown using tag
 Again using common written and spoken languages such as English and Chinese it can quickly been shown that not only are the characters of their alphabets completely different, but also their word building, sentence structures and many other aspects are completely unique to that language. Each of these languages has a dictionary unique to themselves that summarises all the appropriate laws such as correct and incorrect spelling. 
 
 This concept applies directly to markup languages, through the use of their dictionaries, which are known as Schemas
-</details>
+
 
 ---
 ---
@@ -34,7 +34,7 @@ Q2 	Define the features of the following technologies that are essential in term
  - domains and DNS
 
 Explain how each technology has contributed to the development of the internet.
-<details>
+
 
 # Packets
 
@@ -105,7 +105,7 @@ A huge benefit of the DNS is that it enables us to use and remember particular w
 To liken it to our local town or city. If each address was the same we would not be able to send a letter to anyone else. But also if we want to send a letter to someone on the other side of the city we are able to look up a registry of people or business's and send the mail to the appropriate address.
 
 If there were no unique IP addresses identifying each domain it would be impossible to transfer data appropriately. If there was no DNS, then trying to remember 197.232.2.13 equivalents for every site we wanted to access would be complicated at a minimum. Much easier to be able to look up 'Google' or 'Coolsite.com'
-</details>
+
 
 ---
 ---
@@ -116,7 +116,7 @@ Q3 Define the features of the following technologies that are essential in terms
  - web browsers (requests, rendering and developer tools)
 
 Explain how each technology has contributed to the development of client and server communication over the internet (50 - 150 words for each technology)
-<details>
+
 
 # TCP
 ## What is TCP?
@@ -146,13 +146,13 @@ Web browsers are UI apps designed to allow users to browse, find, view, and inte
 - Allowing the use of developer tools such as 'Inspect' and the developer console attached.
 ## How have web browsers contributed to the development of client and server communication over the internet?
 By enabling an extremely simple layout, meaningful translations, a means to traverse the web, and many other features web browsers empower users to view, navigate, and interact with the internet. Such a highly demanded tool has been massively beneficial in promoting the use of the internet, and has simplified the use from clients when accessing different servers. What once was a complex path of going from user input to correct destination and accessing desired data can now be as simple as a couple of clicks.
-</details>
+
 
 ---
 ---
 
 Q4 Describe the features of interpreters and compilers and how they are different.
-<details>
+
 
 # Interpreters and Compilers
 ## What are Interpreters
@@ -164,13 +164,13 @@ A compiler is a program that takes an entire code block and alters it into machi
 - Interpreter is an almost instant response, Compiler has a delay during compilation and has to be re-compiled each time it is altered. 
 - Interpreted code translates to machine code as it goes, compiler converts it all to machine code and then runs which optimises run time and execution
 - Debugging interpreted code is generally a lot simpler than debugging compiled code due to compiled code being machine code and lacking human-readable code while interpreted code remains as written.
-</details>
+
 
 ---
 ---
 
 Q5 Identify TWO commonly used programming languages and explain the benefits and drawbacks of each.
-<details>
+
 
 # Cobol
 A common business-oriented language, Cobol was designed to be highly readable and self documenting and achieves that using a prose style approach, quite similar to how we would write pseudocode. It was and is an excellent language for handling large bulk data particularly in number handling. And was designed with that intent as a business oriented programming language to be primarily used in mainframes. 
@@ -186,39 +186,38 @@ Some drawbacks to C# are the greater learning curve that simpler languages such 
 
 <a id="2">[2]</a>
 Skeet, Jon (2019). C# in Depth (Fourth ed.). Manning. ISBN 978-1617294532
-</details>
+
 
 ---
 ---
 
 Q6 A hypothetical client has sent you an email (shown in the Q6 Email section), asking for you to build them a website. Write an appropriate, professional email response that shows your understanding of the client’s needs for the website, as well as an understanding of appropriate technologies or tools needed to build the website yourself.
-<details>
+
 
 ## Email from client
-Click for details
-<Details>
 
-The client’s email is as follows:
+``` 
+  Hello there!
 
-Hello there!
+  My name is Alex, and I’m the director of the Super Awesome Museum (SAM). We display a variety of interesting artifacts, objects, and paraphernalia about all sorts of things from all over the world.
 
-My name is Alex, and I’m the director of the Super Awesome Museum (SAM). We display a variety of interesting artifacts, objects, and paraphernalia about all sorts of things from all over the world.
+  I’m writing to you because the SAM needs a website. The museum is new in the city, we’re fully funded and don’t sell our items but we just need to encourage people to visit the museum.
 
-I’m writing to you because the SAM needs a website. The museum is new in the city, we’re fully funded and don’t sell our items but we just need to encourage people to visit the museum.
+  We would need a website that showcases some of our interesting exhibits and items, helps people find their way to the museum, and helps people contact the museum.
 
-We would need a website that showcases some of our interesting exhibits and items, helps people find their way to the museum, and helps people contact the museum.
+  We don’t know much about this website stuff - does this sound like something that you can do? 
 
-We don’t know much about this website stuff - does this sound like something that you can do? 
+  Looking forward to hearing from you,
 
-Looking forward to hearing from you,
+  Alex
 
-Alex
+  Director
 
-Director
+  Super Awesome Museum 
+```
 
-Super Awesome Museum 
-</Details>
-  
+
+
 
 ## My Response email
 Hello Alex,
@@ -260,7 +259,7 @@ CoolGuy Websites
 [LinkedIn](linkedincoolguy)
 [Facebook](facebookcoolguy)
 [Twitter](coolguytwitter)
-</details>
+
 
 ---
 ---
@@ -268,7 +267,7 @@ CoolGuy Websites
 Q7 Think back to a scenario or situation in your own software development projects or work.
 
 Explain how you would do things differently if you had a chance to go through that scenario again, using an appropriate reflective cycle or reflection technique.
-<details>
+
 
 # My scenario
 I spent a few months building a 2d RPG to learn C# and Unity, and absolutely loved the entire experience. I did however spend the vast majority of my time making it look pretty as opposed to coding. Which kind of defeated my main purpose for attempting it.
@@ -286,7 +285,7 @@ To spell out the opportunities for growth and improvement from these lessons, I 
 
 - In a similar vein, recognizing that I can't do everything at once. By having more meaningful smaller chunks of learning with high repetition, I can not only improve retention, but also alleviate stress and distraction caused by information overload.
 I won't be a master in a day, but if I practice every day, I will become a master.
-</details>
+
 
 ---
 ---
@@ -296,7 +295,7 @@ Q8
 A large part of career growth as an information technology professional happens through networking and workshops, often found at online or in-person events or workshops. 
 
 Create an action plan that identifies several relevant networking opportunities for you to participate in or attend, and add some information about what you expect to gain or grow through each item in the action plan.
-<details>
+
 
 # Action Plan!
 To be a man of action!
@@ -310,7 +309,6 @@ My hope is to reach out and network on a higher level with those in the interest
 Another thing that I would like to implement is tracking down online opportunities, such as the ones posted in the course discord on occasion. From which I would like to grow my knowledge on as many general fields as possible to increase my base understanding, and also to potentially gain networking opportunities.
 
 I am also doing my best to read documentation around the content I am currently learning, which is complimented by the lessons, and my peers in course. My hope is to fully use the opportunities that arise from this to not only grow my personal network, but also to grow my knowledge.
-</details>
 
 ---
 ---
@@ -319,7 +317,6 @@ I am also doing my best to read documentation around the content I am currently 
 
 <a id="9">[Q9]</a>
  Explain the uses of language-learning model technologies (such as ChatGPT) on written and technical works, such as reports and software projects.
-<details>
 
 # Pros
 There are many benefits to the usage of language-learning model technologies in the same way that there are many benefits to a calculator, to a dictionary, or to a thesaurus.
@@ -365,14 +362,13 @@ But to a degree the point is conveyed, this is a tool entirely devoted to answer
 
 <a id="6">[6]</a>
 [Reddit Bunnings AI Example 2024.06.19 AbleCalligrapher5323](https://www.reddit.com/r/AusMemes/comments/1dj7y98/facebook_suggested_i_try_their_ai_so_i_told_it_to/)
-</details>
-</details>
+
 
 ---
 ---
 
 Q10 Explain the legal and ethical impacts of the usage of language-learning model technologies (such as ChatGPT) in written and technical works, such as reports and software projects.
-<details>
+
 
 # An exponentiation of explanation
 I would like to preface this segment with a clarification, this is a purely academic study, the following is an attempt to understand and iterate the query and response.
@@ -398,7 +394,7 @@ When a language model such as ChatGPT is then used via prompt to complete a task
 
 <a id="8">[8]</a>
 [Bible KJV Ecclesiastes 1:9](https://www.bible.com/bible/1/ECC.1.9.KJV)
-</details>
+
 
 ---
 ---
@@ -406,7 +402,7 @@ When a language model such as ChatGPT is then used via prompt to complete a task
 Q11 Explain multiple skills from each of the categories below, and how they’re useful to a software development workplace.
   -  Soft skills
   -  Hard skills
-<details>
+
 
 # Soft Skills
 Calm
@@ -430,13 +426,13 @@ Programming
 
 Research
 - Includes reading documentation, exploring new data and theories, establishing own use-cases and facilitating the general knowledge requirements for each and every aspect of software development
-</details>
+
 
 ---
 ---
 
 Q12 Explain multiple roles or job positions that would be found in a medium-sized software development company.
-<details>
+
 
 # Positions and Descriptions
 
@@ -467,7 +463,7 @@ All the above [[10]](#10)
 <a id="10">[10]</a>
 My Wife (Project Manager - A large multinational tech company)
 
-</details>
+
 
 ---
 ---
