@@ -388,7 +388,8 @@ In a particular interpretation of this data, it could be surmised that all data 
 When a language model such as ChatGPT is then used via prompt to complete a task or answer a question, we refer to question nine [[9]](#9). 
 - Can it answer a question in a meaningful way? (True)
 - Will it always be true and be able to be used as testimony or fact? (False)
-- 
+- Can it greatly speed up the general creative process? (True)
+
 
 
 <a id="7">[7]</a>
@@ -406,6 +407,29 @@ Q11 Explain multiple skills from each of the categories below, and how they’re
   -  Soft skills
   -  Hard skills
 <details>
+
+# Soft Skills
+Calm
+- Increases sense of clarity and control from an outside and inside perspective
+  - This helps keep a workplace smooth and positive, allowing for greater productivity and appropriate responses throughout all processes particularly in times of stress or elevated emotion
+
+Friendly
+- Increases chances of positive interactions
+  - Being more approachable is an incredibly proactive way to ensure that elements such as constructive criticism, general interactions, and professional discussion are carried out in a manner that is both comfortable and of a higher likelihood to be absorbed and reflected appropriately
+
+Focused
+- Improves productivity
+  - Ensures that tasks are adhered to appropriately, that timelines are met, that final products are polished. The benefits of being focused are almost an endless list, possibly excluding only sleeping and / or resting
+
+# Hard Skills
+Design
+- Ability to create conceptual views, flows, and overall concepts used in the development and execution of software creation
+
+Programming
+- Knowledge and usage of programming languages, syntax, and use, applied to create functional code, programs, games, and more 
+
+Research
+- Includes reading documentation, exploring new data and theories, establishing own use-cases and facilitating the general knowledge requirements for each and every aspect of software development
 </details>
 
 ---
@@ -413,6 +437,36 @@ Q11 Explain multiple skills from each of the categories below, and how they’re
 
 Q12 Explain multiple roles or job positions that would be found in a medium-sized software development company.
 <details>
+
+# Positions and Descriptions
+
+### Scrum Master
+Agile coaching, someone who facilitates the training and use in Agile software development projects
+
+### Project Manager
+Someone who manages budgets, people, and timelines for projects
+
+### Technical Lead
+Developer accountable at a higher level for the quality of the software, overseeing and training developers at a lower level
+
+### Front End Dev
+Develops the client facing elements of software such as CSS on websites
+
+### Back End Dev
+Develops and maintains databases, functional code, and integrates behind the scene mechanics with the client facing elements
+
+### UX Designer
+Responsible for the user experience of the software, can include graphical elements, responsiveness, audio cues, and more
+
+### Product Manager/ Owner
+Responsible for prioritizing the development backlog according to the overall business strategy
+
+All the above [[10]](#10)
+
+
+<a id="10">[10]</a>
+My Wife (Project Manager - A large multinational tech company)
+
 </details>
 
 ---
