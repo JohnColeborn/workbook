@@ -304,11 +304,19 @@ Currently living in a rather remote area of Australia, there is extremely limite
 
 Having been an avid gamer for many years I have quite a few friends in the gaming industry who have worked in various areas of the game design field. While this is somewhat alien to web dev, the foundations of coding are the same across languages and their exposure to both in-house dynamics and IT related experience is a huge source of knowledge and networking opportunities. 
 
-My hope is to reach out and network on a higher level with those in the interest of not only gaining insight, but also potentially employment, learning opportunities, and possibly even friends of friends to get to network with. 
+My hope is to reach out and network on a higher level with those in the interest of not only gaining insight, but also potentially employment, learning opportunities, and possibly even friends of friends to get to network with.
 
 Another thing that I would like to implement is tracking down online opportunities, such as the ones posted in the course discord on occasion. From which I would like to grow my knowledge on as many general fields as possible to increase my base understanding, and also to potentially gain networking opportunities.
 
 I am also doing my best to read documentation around the content I am currently learning, which is complimented by the lessons, and my peers in course. My hope is to fully use the opportunities that arise from this to not only grow my personal network, but also to grow my knowledge.
+
+### I would like to action and implement these thoughts through the following methods:
+
+- Research and attend local business meetups
+
+- Identify relevant slack communities to communicate in and make connections within the industry
+
+- Update LinkedIn profile and create a schedule for posting and connecting with people in the industry
 
 ---
 ---
@@ -336,15 +344,15 @@ For calculations, mentally computing 1 + 947 + a + pi / .5 is going to take a lo
 However, to lead into Cons below, the accuracy is pre-defined by the programming(as in AI) and while 1 + 1 might equal 2, but does it count to the x<sup>99</sup>? An excellent example is a float only having 6-7 decimal digits of precision
 
 # Cons
-But. Buuuut. Not entirely sure how to drag out a phonetic 'u' appropriately, let me ask ChatGPT for the first time for this, so I can verbatim an appropriate response.
 
 ChatGPT is given the prompt "But. Buuuut. Not entirely sure how to drag out a phonetic 'u' appropriately"
 
 Response: "To drag out the phonetic 'u' in writing, you can use repeated 'u' characters. For example, you could write "But. Buuuut." This effectively elongates the sound and conveys the extended pronunciation you're aiming for. The number of 'u' characters can vary depending on how long you want to stretch the sound, so feel free to adjust it to fit your needs." [[5]](#5)
 
-So this particular case study was not excellent in terms of result, apologies for the potential head bopping. There is a very literal response, without a grasp of context or completion.
+So this particular case study shows that output is tied directly to prompt input. There is a very literal response, without a grasp of context or completion.
+It is influenced by not only the quality of the user input, but also of it's learning input (could be things such as forums, blogs, etc). Lacking the awareness to discern between fact and fiction, between context, criticism, sarcasm and more.
 
-But to a degree the point is conveyed, this is a tool entirely devoted to answering, and using itself to grow, so it can answer more, but more is != True. EG: Bunnings Snags through an AI filter just doesn't add up as demonstrated recently on some viral Reddit threads [[6]](#6)
+This is a tool entirely devoted to answering, and using itself to grow, so it can answer more, but more is != True. EG: Bunnings Snags through an AI filter just doesn't add up as demonstrated recently on some viral Reddit threads [[6]](#6)
 
 
 
